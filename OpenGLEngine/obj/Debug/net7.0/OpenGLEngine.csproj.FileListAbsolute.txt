@@ -1,0 +1,12 @@
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\bin\Debug\net7.0\OpenGLEngine.deps.json
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\bin\Debug\net7.0\OpenGLEngine.dll
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\bin\Debug\net7.0\OpenGLEngine.pdb
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.AssemblyInfo.cs
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.dll
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\refint\OpenGLEngine.dll
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\OpenGLEngine.pdb
+C:\Users\brian\source\repos\OpenGLEngine\OpenGLEngine\obj\Debug\net7.0\ref\OpenGLEngine.dll

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CLztS8oKG1H09pQzXiviiS7cSqGnil8b+McNGBLlfAO/aZ355os+sd/Nlkhcod6pxNoYclL6lk2RvuGGumJXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brian\\source\\repos\\OpenGLEngine\\OpenGLEngine\\OpenGLEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\opentk\\4.8.0\\opentk.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.audio.openal\\4.8.0\\opentk.audio.openal.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.compute\\4.8.0\\opentk.compute.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.core\\4.8.0\\opentk.core.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.graphics\\4.8.0\\opentk.graphics.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.input\\4.8.0\\opentk.input.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.mathematics\\4.8.0\\opentk.mathematics.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.38\\opentk.redist.glfw.3.3.8.38.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.windowing.common\\4.8.0\\opentk.windowing.common.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.windowing.desktop\\4.8.0\\opentk.windowing.desktop.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.0\\opentk.windowing.graphicslibraryframework.4.8.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\stbimagesharp\\2.27.13\\stbimagesharp.2.27.13.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
