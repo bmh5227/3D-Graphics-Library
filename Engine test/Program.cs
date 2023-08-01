@@ -23,7 +23,7 @@ using (Game window = new Game(monitor.HorizontalResolution, monitor.VerticalReso
     Shader shader = window.getDefaultShader();
 
     Entity plane = Entity.createEntity(shader, planeVerts, planeIndices, new (string, int)[] { ("aPosition", 3), ("aTexPos", 2) }, "Plane");
-    plane.loadTextures("C:\\Users\\brian\\source\\repos\\OpenGLEngine\\Engine test\\textures\\", new string[] { "container.jpg" });
+    plane.loadTextures("C:\\Users\\brian\\source\\repos\\OpenGLEngine\\Engine test\\textures\\", new string[] { "ground.jpg" });
 
     Cube cube = Shapes.AddCubeToGame(window, new Vector3(1f, 1f, 1f), new Vector3(0f, 0f, 0f), new Vector3(0f, 0f, 0f));
     window.addDrawableObject(plane);

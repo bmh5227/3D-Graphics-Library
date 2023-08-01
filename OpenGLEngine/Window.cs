@@ -70,6 +70,8 @@ namespace OpenGLEngine
                 Close();
             if (keyboardEnabled)
             {
+                if (KeyboardState.IsKeyDown(Keys.LeftShift))
+                    cameraSpeed *= 2f;
                 if(KeyboardState.IsKeyDown(Keys.W))
                     camera.Position += camera.Front * cameraSpeed * (float)e.Time; //Forward 
 
